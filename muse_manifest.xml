@@ -1,14 +1,14 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jose78930.github.io" resolutions="1x" timestamp="1527466195842">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jose78930.github.io" resolutions="1x" timestamp="1527466936942">
   <folder name="css">
     <file name="site_global.css" crc="45273418"/>
-    <file name="master_a-master.css" crc="4229498546" ref="index:aplicaciones:acerca-de"/>
+    <file name="master_a-master.css" crc="278816660" ref="index:aplicaciones:acerca-de"/>
     <file name="nomq_preview_master_a-master.css" crc="146622436" ref="index:aplicaciones:acerca-de"/>
-    <file name="index.css" crc="4201276325" ref="index"/>
-    <file name="nomq_index.css" crc="3809669379" ref="index"/>
-    <file name="aplicaciones.css" crc="204924816" ref="aplicaciones"/>
-    <file name="nomq_aplicaciones.css" crc="4025724107" ref="aplicaciones"/>
-    <file name="acerca-de.css" crc="4201276325" ref="acerca-de"/>
-    <file name="nomq_acerca-de.css" crc="3809669379" ref="acerca-de"/>
+    <file name="index.css" crc="3866976304" ref="index"/>
+    <file name="nomq_index.css" crc="166461732" ref="index"/>
+    <file name="aplicaciones.css" crc="233468832" ref="aplicaciones"/>
+    <file name="nomq_aplicaciones.css" crc="3802768651" ref="aplicaciones"/>
+    <file name="acerca-de.css" crc="3866976304" ref="acerca-de"/>
+    <file name="nomq_acerca-de.css" crc="166461732" ref="acerca-de"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="aplicaciones:index:acerca-de"/>
@@ -35,12 +35,14 @@
       <caption webpage="aplicaciones" alt=""/>
       <caption webpage="aplicaciones" alt=""/>
       <caption webpage="aplicaciones" alt=""/>
+      <caption webpage="aplicaciones" alt=""/>
       <caption webpage="acerca-de" alt=""/>
       <caption webpage="acerca-de" alt=""/>
       <caption webpage="acerca-de" alt=""/>
     </file>
     <file name="solologo2_poster_.png" crc="75904228" ref="aplicaciones"/>
     <file name="circleponglogobannertransparente.png" crc="132577648" seo="true" ref="aplicaciones">
+      <caption webpage="aplicaciones" alt=""/>
       <caption webpage="aplicaciones" alt=""/>
       <caption webpage="aplicaciones" alt=""/>
       <caption webpage="aplicaciones" alt=""/>
@@ -66,28 +68,7 @@
     <file name="screen_720x1280_2018-05-27_15-16-09-crop-u7172.png" crc="495828953" seo="true" ref="aplicaciones">
       <caption webpage="aplicaciones" alt=""/>
     </file>
-    <file name="screen_720x1280_2018-05-27_15-16-35-crop-u6853.png" crc="4175888380" seo="true" ref="aplicaciones">
-      <caption webpage="aplicaciones" alt=""/>
-    </file>
     <file name="blank.gif" crc="4208392903" ref="aplicaciones:index:acerca-de"/>
-    <file name="screen_720x1280_2018-05-27_15-15-36-crop-u7006.png" crc="175878482" seo="true" ref="aplicaciones">
-      <caption webpage="aplicaciones" alt=""/>
-    </file>
-    <file name="screen_720x1280_2018-05-27_15-15-38-crop-u7033.png" crc="472660263" seo="true" ref="aplicaciones">
-      <caption webpage="aplicaciones" alt=""/>
-    </file>
-    <file name="screen_720x1280_2018-05-27_15-28-40-crop-u7060.png" crc="3770833413" seo="true" ref="aplicaciones">
-      <caption webpage="aplicaciones" alt=""/>
-    </file>
-    <file name="screen_720x1280_2018-05-27_15-16-08-crop-u7087.png" crc="236697330" seo="true" ref="aplicaciones">
-      <caption webpage="aplicaciones" alt=""/>
-    </file>
-    <file name="screen_720x1280_2018-05-27_15-28-41-crop-u7114.png" crc="221525583" seo="true" ref="aplicaciones">
-      <caption webpage="aplicaciones" alt=""/>
-    </file>
-    <file name="screen_720x1280_2018-05-27_15-16-09-crop-u7166.png" crc="89937444" seo="true" ref="aplicaciones">
-      <caption webpage="aplicaciones" alt=""/>
-    </file>
     <file name="loading.gif" crc="3815509949" ref="aplicaciones"/>
     <file name="yt_logo_mono_dark.png" crc="34002800" seo="true" ref="aplicaciones:index:acerca-de">
       <caption webpage="index" alt=""/>
@@ -96,14 +77,15 @@
       <caption webpage="aplicaciones" alt=""/>
       <caption webpage="aplicaciones" alt=""/>
       <caption webpage="aplicaciones" alt=""/>
+      <caption webpage="aplicaciones" alt=""/>
       <caption webpage="acerca-de" alt=""/>
       <caption webpage="acerca-de" alt=""/>
       <caption webpage="acerca-de" alt=""/>
     </file>
-    <file name="abrir.svg" crc="3881540917" ref="aplicaciones"/>
-    <file name="abrir_poster_u2977.png" crc="229763918" ref="aplicaciones"/>
-    <file name="cerrar.svg" crc="94584885" ref="aplicaciones"/>
-    <file name="cerrar_poster_u2930.png" crc="66643228" ref="aplicaciones"/>
+    <file name="abrir.svg" crc="3881540917" ref="aplicaciones:index"/>
+    <file name="abrir_poster_u2977.png" crc="229763918" ref="aplicaciones:index"/>
+    <file name="cerrar.svg" crc="94584885" ref="aplicaciones:index"/>
+    <file name="cerrar_poster_u2930.png" crc="66643228" ref="aplicaciones:index"/>
     <file name="screen_720x1280_2018-05-27_15-16-35-crop-u68622.png" crc="3817839960" seo="true" ref="aplicaciones">
       <caption webpage="aplicaciones" alt=""/>
     </file>
@@ -125,71 +107,92 @@
     <file name="screen_720x1280_2018-05-27_15-16-09-crop-u71722.png" crc="364145001" seo="true" ref="aplicaciones">
       <caption webpage="aplicaciones" alt=""/>
     </file>
-    <file name="screen_720x1280_2018-05-27_15-16-35-crop-u68532.png" crc="386949578" seo="true" ref="aplicaciones">
+    <file name="screen_720x1280_2018-05-27_15-16-35.png" crc="238236678" seo="true" ref="aplicaciones">
+      <caption webpage="aplicaciones" alt=""/>
+      <caption webpage="aplicaciones" alt=""/>
+      <caption webpage="aplicaciones" alt=""/>
       <caption webpage="aplicaciones" alt=""/>
     </file>
-    <file name="screen_720x1280_2018-05-27_15-15-36-crop-u70062.png" crc="264000122" seo="true" ref="aplicaciones">
+    <file name="screen_720x1280_2018-05-27_15-15-36.png" crc="3925808151" seo="true" ref="aplicaciones">
+      <caption webpage="aplicaciones" alt=""/>
+      <caption webpage="aplicaciones" alt=""/>
+      <caption webpage="aplicaciones" alt=""/>
       <caption webpage="aplicaciones" alt=""/>
     </file>
-    <file name="screen_720x1280_2018-05-27_15-15-38-crop-u70332.png" crc="4024049919" seo="true" ref="aplicaciones">
+    <file name="screen_720x1280_2018-05-27_15-15-38.png" crc="4288184230" seo="true" ref="aplicaciones">
+      <caption webpage="aplicaciones" alt=""/>
+      <caption webpage="aplicaciones" alt=""/>
+      <caption webpage="aplicaciones" alt=""/>
       <caption webpage="aplicaciones" alt=""/>
     </file>
-    <file name="screen_720x1280_2018-05-27_15-28-40-crop-u70602.png" crc="4135073282" seo="true" ref="aplicaciones">
+    <file name="screen_720x1280_2018-05-27_15-28-40.png" crc="4226570642" seo="true" ref="aplicaciones">
+      <caption webpage="aplicaciones" alt=""/>
+      <caption webpage="aplicaciones" alt=""/>
+      <caption webpage="aplicaciones" alt=""/>
       <caption webpage="aplicaciones" alt=""/>
     </file>
-    <file name="screen_720x1280_2018-05-27_15-16-08-crop-u70872.png" crc="242768372" seo="true" ref="aplicaciones">
+    <file name="screen_720x1280_2018-05-27_15-16-08.png" crc="42597272" seo="true" ref="aplicaciones">
+      <caption webpage="aplicaciones" alt=""/>
+      <caption webpage="aplicaciones" alt=""/>
+      <caption webpage="aplicaciones" alt=""/>
       <caption webpage="aplicaciones" alt=""/>
     </file>
-    <file name="screen_720x1280_2018-05-27_15-28-41-crop-u71142.png" crc="438074143" seo="true" ref="aplicaciones">
+    <file name="screen_720x1280_2018-05-27_15-28-41.png" crc="301061748" seo="true" ref="aplicaciones">
+      <caption webpage="aplicaciones" alt=""/>
+      <caption webpage="aplicaciones" alt=""/>
+      <caption webpage="aplicaciones" alt=""/>
       <caption webpage="aplicaciones" alt=""/>
     </file>
-    <file name="screen_720x1280_2018-05-27_15-16-09-crop-u71662.png" crc="4123179198" seo="true" ref="aplicaciones">
+    <file name="screen_720x1280_2018-05-27_15-16-09.png" crc="4077750992" seo="true" ref="aplicaciones">
+      <caption webpage="aplicaciones" alt=""/>
+      <caption webpage="aplicaciones" alt=""/>
+      <caption webpage="aplicaciones" alt=""/>
       <caption webpage="aplicaciones" alt=""/>
     </file>
-    <file name="screen_720x1280_2018-05-27_15-16-35-crop-u68623.png" crc="3981532026" seo="true" ref="aplicaciones">
+    <file name="screen_720x1280_2018-05-27_15-16-35-crop-u10721.png" crc="3817839960" seo="true" ref="aplicaciones">
       <caption webpage="aplicaciones" alt=""/>
     </file>
-    <file name="screen_720x1280_2018-05-27_15-15-36-crop-u70123.png" crc="193744941" seo="true" ref="aplicaciones">
+    <file name="screen_720x1280_2018-05-27_15-15-36-crop-u10723.png" crc="433436950" seo="true" ref="aplicaciones">
       <caption webpage="aplicaciones" alt=""/>
     </file>
-    <file name="screen_720x1280_2018-05-27_15-15-38-crop-u70393.png" crc="243875907" seo="true" ref="aplicaciones">
+    <file name="screen_720x1280_2018-05-27_15-15-38-crop-u10725.png" crc="4247914873" seo="true" ref="aplicaciones">
       <caption webpage="aplicaciones" alt=""/>
     </file>
-    <file name="screen_720x1280_2018-05-27_15-28-40-crop-u70663.png" crc="3805055384" seo="true" ref="aplicaciones">
+    <file name="screen_720x1280_2018-05-27_15-28-40-crop-u10719.png" crc="276362630" seo="true" ref="aplicaciones">
       <caption webpage="aplicaciones" alt=""/>
     </file>
-    <file name="screen_720x1280_2018-05-27_15-16-08-crop-u70933.png" crc="4024622427" seo="true" ref="aplicaciones">
+    <file name="screen_720x1280_2018-05-27_15-16-08-crop-u10713.png" crc="3802630847" seo="true" ref="aplicaciones">
       <caption webpage="aplicaciones" alt=""/>
     </file>
-    <file name="screen_720x1280_2018-05-27_15-28-41-crop-u71203.png" crc="4095994088" seo="true" ref="aplicaciones">
+    <file name="screen_720x1280_2018-05-27_15-28-41-crop-u10715.png" crc="4089056455" seo="true" ref="aplicaciones">
       <caption webpage="aplicaciones" alt=""/>
     </file>
-    <file name="screen_720x1280_2018-05-27_15-16-09-crop-u71723.png" crc="164927146" seo="true" ref="aplicaciones">
+    <file name="screen_720x1280_2018-05-27_15-16-09-crop-u10717.png" crc="364145001" seo="true" ref="aplicaciones">
       <caption webpage="aplicaciones" alt=""/>
     </file>
-    <file name="screen_720x1280_2018-05-27_15-16-35-crop-u68533.png" crc="243700966" seo="true" ref="aplicaciones">
+    <file name="screen_720x1280_2018-05-27_15-16-35-crop-u107212.png" crc="3817839960" seo="true" ref="aplicaciones">
       <caption webpage="aplicaciones" alt=""/>
     </file>
-    <file name="screen_720x1280_2018-05-27_15-15-36-crop-u70063.png" crc="392322512" seo="true" ref="aplicaciones">
+    <file name="screen_720x1280_2018-05-27_15-15-36-crop-u107232.png" crc="433436950" seo="true" ref="aplicaciones">
       <caption webpage="aplicaciones" alt=""/>
     </file>
-    <file name="screen_720x1280_2018-05-27_15-15-38-crop-u70333.png" crc="224575293" seo="true" ref="aplicaciones">
+    <file name="screen_720x1280_2018-05-27_15-15-38-crop-u107252.png" crc="4247914873" seo="true" ref="aplicaciones">
       <caption webpage="aplicaciones" alt=""/>
     </file>
-    <file name="screen_720x1280_2018-05-27_15-28-40-crop-u70603.png" crc="491285948" seo="true" ref="aplicaciones">
+    <file name="screen_720x1280_2018-05-27_15-28-40-crop-u107192.png" crc="276362630" seo="true" ref="aplicaciones">
       <caption webpage="aplicaciones" alt=""/>
     </file>
-    <file name="screen_720x1280_2018-05-27_15-16-08-crop-u70873.png" crc="93120738" seo="true" ref="aplicaciones">
+    <file name="screen_720x1280_2018-05-27_15-16-08-crop-u107132.png" crc="3802630847" seo="true" ref="aplicaciones">
       <caption webpage="aplicaciones" alt=""/>
     </file>
-    <file name="screen_720x1280_2018-05-27_15-28-41-crop-u71143.png" crc="3785672495" seo="true" ref="aplicaciones">
+    <file name="screen_720x1280_2018-05-27_15-28-41-crop-u107152.png" crc="4089056455" seo="true" ref="aplicaciones">
       <caption webpage="aplicaciones" alt=""/>
     </file>
-    <file name="screen_720x1280_2018-05-27_15-16-09-crop-u71663.png" crc="61646778" seo="true" ref="aplicaciones">
+    <file name="screen_720x1280_2018-05-27_15-16-09-crop-u107172.png" crc="364145001" seo="true" ref="aplicaciones">
       <caption webpage="aplicaciones" alt=""/>
     </file>
   </folder>
-  <file name="aplicaciones.html" crc="68523154" seo="true" mt="1527466186659" redirect="true"/>
-  <file name="index.html" crc="121425641" seo="true" mt="1527466186659" redirect="true"/>
-  <file name="acerca-de.html" crc="3856955706" seo="true" mt="1527466186659" redirect="true"/>
+  <file name="aplicaciones.html" crc="483982490" seo="true" mt="1527466899501" redirect="true"/>
+  <file name="index.html" crc="89376861" seo="true" mt="1527466848959" redirect="true"/>
+  <file name="acerca-de.html" crc="4098611003" seo="true" mt="1527466848959" redirect="true"/>
 </manifest>
