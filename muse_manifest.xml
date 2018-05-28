@@ -1,13 +1,13 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jose78930.github.io" resolutions="1x" timestamp="1527465631924">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jose78930.github.io" resolutions="1x" timestamp="1527466094049">
   <folder name="css">
     <file name="site_global.css" crc="45273418"/>
     <file name="master_a-master.css" crc="4229498546" ref="index:aplicaciones:acerca-de"/>
     <file name="nomq_preview_master_a-master.css" crc="146622436" ref="index:aplicaciones:acerca-de"/>
-    <file name="index.css" crc="40636990" ref="index"/>
+    <file name="index.css" crc="446284436" ref="index"/>
     <file name="nomq_index.css" crc="3809669379" ref="index"/>
-    <file name="aplicaciones.css" crc="3999463940" ref="aplicaciones"/>
+    <file name="aplicaciones.css" crc="4207797301" ref="aplicaciones"/>
     <file name="nomq_aplicaciones.css" crc="4025724107" ref="aplicaciones"/>
-    <file name="acerca-de.css" crc="40636990" ref="acerca-de"/>
+    <file name="acerca-de.css" crc="446284436" ref="acerca-de"/>
     <file name="nomq_acerca-de.css" crc="3809669379" ref="acerca-de"/>
   </folder>
   <folder name="scripts">
@@ -189,7 +189,7 @@
       <caption webpage="aplicaciones" alt=""/>
     </file>
   </folder>
-  <file name="aplicaciones.html" crc="4214853130" seo="true" mt="1527465164479" redirect="true"/>
-  <file name="index.html" crc="4041696578" seo="true" mt="1527465164477" redirect="true"/>
-  <file name="acerca-de.html" crc="407921356" seo="true" mt="1527465164477" redirect="true"/>
+  <file name="aplicaciones.html" crc="4217498387" seo="true" mt="1527466076188" redirect="true"/>
+  <file name="index.html" crc="3847423235" seo="true" mt="1527466076188" redirect="true"/>
+  <file name="acerca-de.html" crc="241506996" seo="true" mt="1527466076188" redirect="true"/>
 </manifest>
